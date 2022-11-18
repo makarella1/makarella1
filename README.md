@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=%2336BCF7&lines=👋+I'm+Vladyslav.+Welcome+here!;Inborn+team+player🏀;Computer+Science+student👩‍💻;Front-end+Developer👀;Passionate+Learner🧐;...yada+yada+yada.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=%2336BCF7&lines=👋+I'm+Vladyslav.+Welcome+here!;Computer+Science+student👩‍💻;Front-end+Developer👀;Passionate+Learner🧐;...yada+yada+yada.;)](https://git.io/typing-svg)
 <br />
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&myquote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler)](https://github.com/piyushsuthar/github-readme-quotes)
 </br>
